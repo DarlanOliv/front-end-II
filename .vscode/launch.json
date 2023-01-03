@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://file:///C:/central/Encoding/ctd/javascript/front-2/front-end-II/index.html",
+            "request": "launch",
+            "url": "http://file:///C:/central/Encoding/ctd/javascript/front-2/front-end-II/index.html"
+        }
+    ]
+}
