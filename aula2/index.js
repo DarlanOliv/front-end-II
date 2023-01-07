@@ -1,6 +1,13 @@
-console.log("aula 2 start");
-console.log("aula 2 Restart");
+let opcao = prompt("informe sua opção: PEDRA OU PAPEL OU TESOURA");
+switch (opcao) {
+    case pedra:
+        alert("sua opção foi Pedra...");
+        break;
 
-//Interagindo com o usuário com caixa de mensagem
-let result = confirm("Deseja continiuar");
-console.log(result);
+    default:
+        break;
+}
+
+function pedra(){
+
+}
